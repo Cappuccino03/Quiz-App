@@ -1,0 +1,1 @@
+Welcome to the Quiz App project! This interactive quiz application is designed to challenge users' knowledge and provide an enjoyable learning experience. This README file provides essential information about the project and how its developed.
